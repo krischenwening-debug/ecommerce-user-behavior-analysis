@@ -3,7 +3,7 @@ MySQL + Tableau E-commerce User Behavior Analysis
 
 ## 📌 项目目录 (Tableau & SQL Project Index)
 *   [1. 项目文件树 (Project Directory Tree)](#1-项目文件树-project-directory-tree)
-*   [2. 数据来源与样本说明 (Data Source Scope)](#2-数据来源与样本说明-data-source--scope)
+*   [2. 数据来源与样本说明 (Data Source & Scope)](#2-数据来源与样本说明-data-source--scope)
 *   [3. 核心业务指标摘要 (Key Business Metrics)](#3-核心业务指标摘要-key-business-metrics)
 *   [4. 核心看板预览 (Dashboard Preview)](#4-核心看板预览-dashboard-preview)
 
